@@ -1,6 +1,6 @@
 # savemgr
 
-A small utility to aumatically manage game saves.
+A small utility to automatically manage game saves.
 
 
 # Usage
